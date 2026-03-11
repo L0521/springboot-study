@@ -1,4 +1,5 @@
 // ApiResponse.java
+// 스터디 사전 준비 과제 제출용
 @Getter
 @AllArgsConstructor
 public class ApiResponse<T> {
